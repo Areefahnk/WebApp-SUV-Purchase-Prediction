@@ -1,5 +1,6 @@
 from flask import Flask,request, render_template
 import pickle
+import matplotlib
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
